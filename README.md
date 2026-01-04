@@ -19,7 +19,7 @@ It allows users to:
 ## Installation
 1. Clone the repo:
 ```bash
-git clone <repo-url>
+git clone <https://github.com/jhansi-hanumanthu-dev/Naukri_for_Blue_Collar_Workers.git>
 cd JobMitra
 2.Install dependencies:
 npm install
@@ -27,7 +27,4 @@ npm install
 npm start
 Open http://localhost:3000
  in your browser
-=======
-# Naukri_for_Blue_Collar_Workers
-A responsive multi-language job portal built with React, TypeScript, and Zustand for global state management. Browse categories, view jobs, and apply easily.
->>>>>>> d6ffbf6c54b131b2b76e082725689ad547afed81
+
